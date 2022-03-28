@@ -1,0 +1,167 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: 'Lato', Helvetica, Arial, sans-serif;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #54514e !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #023452 !default;
+$orange:           #f07d25 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    900px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        900px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+// Custom styles
+.site-header {
+    //background: rgb(2,0,36);
+    //background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(16,66,96,1) 100%);
+    border-top: 0;
+    //margin-bottom: 0.75em;
+    .wrapper {
+        position: relative;
+    }
+}
+
+.logo {
+    color: #54514e;
+    padding: 13px 0 10px;
+    font-size: 1.3em;
+    span {
+        position: relative;
+        top: 2px;
+        left: 5px;
+        letter-spacing: 0.06em;
+    }
+}
+
+.icons {
+    position: absolute;
+    right: 0;
+    top: 47%;
+    svg {
+        transform: scale(1.8);
+        .circle {
+            fill: $text-color;
+            fill-opacity: 0; 
+        }
+        .circle:hover {
+            fill-opacity: .3;
+            stroke:#f07d25;
+            stroke-width: 1px;
+        }
+    }
+}
+
+.page-content {
+    background: #efefef;
+    padding: 40px 0;
+}
+
+.bg-white {
+    background: $background-color;
+    margin: 2em 0;
+    padding: 1em 1em 2em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.accordion {
+    background-color: $brand-color;
+    color: $background-color;
+    cursor: pointer;
+    padding: 10px;
+    outline: none;
+    transition: 0.4s;
+    margin: 1.25em 0 0;
+    &::after {
+        content: '+'; 
+        font-size: 32px;
+        color: $background-color;
+        float: right;
+        margin: 5px;
+        line-height: 0.5;
+    }
+  }
+
+ .bg-white h2 + h3 {
+    margin-top: 0;
+  }
+  
+  .active, .accordion:hover {
+    background-color: #FCCB55;
+    color: $text-color;
+  }
+
+  .accordion:hover::after {
+    color: $text-color;
+  }
+  
+  .panel {
+    padding: 0;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+  
+  .accordion.active::after {
+    content: "\2013";
+    color: $text-color; 
+    font-size: 35px;
+    line-height: 0.4;
+    
+  }
+
+  table {
+    color: $text-color;
+    line-height: 1.3;
+    td {
+        vertical-align: top;
+    }
+    li {
+        padding-bottom: 0.5em;
+    }
+  }
+
+  table tr:nth-child(2n) {
+    background-color: $background-color;
+  }

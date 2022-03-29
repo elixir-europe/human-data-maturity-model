@@ -111,14 +111,13 @@ $on-laptop:        900px !default;
     background-color: $brand-color;
     color: $background-color;
     cursor: pointer;
-    padding: 10px;
+    padding: 15px 10px 5px;
     transition: 0.4s;
     margin: 1.25em 0 0;
     display: inline-block;
     width: 100%;
     text-align: left;
     border: 0;
-    line-height: 2em;
     font-size: 1em;
     &::after {
         content: '+'; 
@@ -127,6 +126,8 @@ $on-laptop:        900px !default;
         float: right;
         margin: 5px;
         line-height: 0.7;
+        position: relative;
+        top: -5px;
     }
    
   }

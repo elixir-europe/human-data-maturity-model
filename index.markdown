@@ -22,7 +22,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <th>Subdomains</th>
             <th>Indicator</th>
             <th>EOSC Interop</th>
-            <th>Criteria</th>
+            <th>Levels</th>
         </tr>
         <tr>
             <td>Legal Governance</td>
@@ -39,7 +39,7 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
          <tr>
             <td>Trust & Transparency</td>
-            <td>Alignment with the 1+MG Trust Framework</td>
+            <td>Alignment with the 1+Million Genomes (1+MG) Trust Framework</td>
             <td>Legal</td>
             <td>
                 <ol>
@@ -76,7 +76,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <th>Subdomains</th>
             <th>Indicator</th>
             <th>EOSC Interop</th>
-            <th>Criteria</th>
+            <th>Levels</th>
         </tr>
         <tr>
             <td>Governance</td>
@@ -103,14 +103,14 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
         <tr>
             <td rowspan="4">Alignment with initiatives</td>
-            <td>1+Million Genome Alignment</td>
+            <td>1+MG Alignment</td>
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No 1+MG National Mirror Group (or equivalent) no plans to implement the Trust Framework.</li>
-                    <li>1+MG National Mirror Group (or equivalent) established and 1+MG Trust Framework implementation plan drafted.</li>
-                    <li>1+MG National Mirror Group (or equivalent) established and functioning to deliver 1+MG roadmap and implementing the 1+MG Trust Framework.</li>
-                    <li>Demonstrated advancements and leadership of activities to support infrastructure and services that align with the 1+MG roadmap and 1+MG Trust Framework.</li>
+                    <li>No 1+MG National Mirror Group (or equivalent).</li>
+                    <li>1+MG National Mirror Group (or equivalent) established.</li>
+                    <li>1+MG National Mirror Group (or equivalent) established and functioning to deliver a roadmap that is compatible with 1+MG.</li>
+                    <li>Demonstrated advancements and leadership of activities to support infrastructure and services that align with the 1+MG roadmap.</li>
                 </ol>
             </td>
         </tr>
@@ -218,7 +218,7 @@ Ultimately, this model should support technical leads in human data sharing proj
 </div>
 
 <div class="bg-white">
-    <h2>Technical infrastructure</h2>
+    <h2>Technical</h2>
     <h3>
         <button class="accordion" id="accordion-header-3" aria-expanded="false" aria-controls="accordion-panel-3" data-accordion-header>
             Data Discoverability
@@ -230,7 +230,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Subdomains</th>
                 <th>Indicator</th>
                 <th>EOSC Interop</th>
-                <th>Criteria</th>
+                <th>Levels</th>
             </tr>
             <tr>
                 <td>Data Discoverability Technical Interoperability</td>
@@ -284,7 +284,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Subdomains</th>
                 <th>Indicator</th>
                 <th>EOSC Interop</th>
-                <th>Criteria</th>
+                <th>Levels</th>
             </tr>
             <tr>
                 <td>Data reception Technical Interoperability</td>
@@ -350,7 +350,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Subdomains</th>
                 <th>Indicator</th>
                 <th>EOSC Interop</th>
-                <th>Criteria</th>
+                <th>Levels</th>
             </tr>
             <tr>
                 <td>Secure Storage and Access Technical Interoperability</td>
@@ -404,7 +404,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Subdomains</th>
                 <th>Indicator</th>
                 <th>EOSC Interop</th>
-                <th>Criteria</th>
+                <th>Levels</th>
             </tr>
             <tr>
                 <td>Data Management Access Technical Interoperability</td>
@@ -470,7 +470,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Subdomains</th>
                 <th>Indicator</th>
                 <th>EOSC Interop</th>
-                <th>Criteria</th>
+                <th>Levels</th>
             </tr>
             <tr>
                 <td>Data Processing Technical Interoperability</td>

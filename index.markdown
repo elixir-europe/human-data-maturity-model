@@ -30,7 +30,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>No legal agreements in place supporting international data sharing such as the Federated EGA agreements.</li>
+                    <li>Requirements being gathered to set legal agreements in place supporting international data sharing such as the Federated EGA agreements.</li>
                     <li>Legal agreements drafted to support international data sharing such as the Federated EGA Agreements.</li>
                     <li>Legal agreements in place to support international data sharing.</li>
                     <li>Legal agreements in place to support international data sharing and a mechanism for updates exists.</li>
@@ -43,8 +43,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>No cohesive plan for policies and agreements enabling effective and secure cross-border access to sensitive human data.</li>
-                    <li>Cohesive plan drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data. Local implementation may have begun.</li>
+                    <li>Gathering requirements for policies and agreements to enable effective and secure cross-border access to sensitive human data.</li>
+                    <li>Cohesive plan drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data.</li>
                     <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented at the Node level to support secure cross-border data access of sensitive human data.</li>
                     <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented and enforced at the Node level and is under regular review.</li>
                 </ol>
@@ -56,8 +56,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>Ad hoc/inconsistent data reuse licensing practices.</li>
-                    <li>Node data reuse licensing plan drafted; consistent plan implemented at a local level.</li>
+                    <li>Ad hoc data reuse licensing practices, requirements being gathered to create a cohesive plan.</li>
+                    <li>Node data reuse licensing plan drafted.</li>
                     <li>The data reuse licensing plan that supports international data sharing aligned with the 1+MG infrastructure has been implemented at the Node level.</li>
                     <li>Data reuse licensing plan that supports international data sharing has been implemented, is enforced, and is regularly reviewed.</li>
                 </ol>
@@ -119,7 +119,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No awareness or plans to implement the outputs of the EHDS.</li>
+                    <li>Outputs of the EHDS are being analysed for benefit to the Node.</li>
                     <li>Plans drafted to implement or interoperate with the appropriate outputs of the EHDS.</li>
                     <li>Appropriate EHDS outputs implemented or interoperability established.</li>
                     <li>Node is driving or contributing to the advancement of EHDS outputs.</li>
@@ -131,7 +131,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No awareness or plans to implement the outputs of the EOSC.</li>
+                    <li>Outputs of the EOSC are being analysed for benefit to the Node.</li>
                     <li>Plans drafted to implement or interoperate with the appropriate outputs of the EOSC.</li>
                     <li>Appropriate EOSC outputs implemented or interoperability established.</li>
                     <li>Node is driving or contributing to the advancement of EOSC outputs.</li>
@@ -143,10 +143,10 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>No National Genomic Program plan written.</li>
-                    <li>National Genomic Program plan drafted.</li>
-                    <li>National Genomic Program Approved and deployment initiated.</li>
-                    <li>National Genomic Program fully deployed and a mechanism for updates and improvements is active.</li>
+                    <li>Requirements being gathered to write a plan for a National Genomic Program.</li>
+                    <li>National Genomic Program plan drafted that aligns with key international data sharing projects.</li>
+                    <li>National Genomic Program that aligns with key international data sharing projects has been approved and deployment may have been initiated.</li>
+                    <li>National Genomic Program is aligned with key international data sharing projects, is fully deployed and a mechanism for updates and improvements is in place.</li>
                 </ol>
             </td>
         </tr>
@@ -156,7 +156,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No long term funding plan to support the operation of the Infrastructure.</li>
+                    <li>Requirements being gathered to create a long term funding plan to support the operation of the Infrastructure.</li>
                     <li>Developed a national plan to secure long term funding for the operation of the infrastructure, initial (4-5 year) funding has been secured.</li>
                     <li>Long term funding secured for the national infrastructure.</li>
                     <li>Long term sustainability plan in place.</li>
@@ -169,7 +169,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No business plan in place to support the infrastructure.</li>
+                    <li>Requirements being gathered to create a business plan in place to support the infrastructure.</li>
                     <li>Business plan drafted to support the infrastructure.</li>
                     <li>Business plan has been deployed and is currently helping to sustain the infrastructure.</li>
                     <li>Business plan to support the infrastructure is operating, is periodically evaluated for optimization, taking into account developments.</li>
@@ -182,7 +182,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No or ad hoc national capacity supporting ELSI concerns of human genomic data sharing.</li>
+                    <li>Requirements being gathered for national capacity supporting ELSI concerns of human genomic data sharing, currently covered ad hoc.</li>
                     <li>ELSI capacity requirements are drafted and recruiting is underway.  Full national capacity needs are not yet met.</li>
                     <li>Current ELSI national capacity needs met.</li>
                     <li>Current ELSI national capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
@@ -194,7 +194,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No or ad hoc national capacity supporting technical requirements for human genomic data sharing.</li>
+                    <li>Requirements being gathered for national capacity supporting technical requirements for human genomic data sharing, currently covered ad hoc.</li>
                     <li>Technical capacity requirements are drafted and recruiting is underway.  Full national capacity needs are not yet met.</li>
                     <li>Current technical national capacity needs met.</li>
                     <li>Current technical national capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
@@ -206,8 +206,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No training program in place to support onboarding and advancement within the infrastructure.</li>
-                    <li>Node training program drafted, training programs implemented at a local level.</li>
+                    <li>Requirements being gathered to create a training program to support onboarding and advancement within the infrastructure.</li>
+                    <li>Node training program drafted.</li>
                     <li>Consistent Node training programs are implemented and support alignment with the international infrastructure.</li>
                     <li>Consistent Node training programs are implemented, support alignment with the international infrastructure, and are consistently reviewed and updated.</li>
                 </ol>
@@ -238,7 +238,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>No or internal only data discovery functionalities implemented.</li>
+                        <li>Requirements being gathered for the implementation of data discovery functionalities aligned with the 1+MG proof of concept.</li>
                         <li>A plan is drafted to implement the data discovery elements of the 1+MG proof of concept system.  Some implementation may have begun.</li>
                         <li>The data discovery elements of the 1+MG proof of concept system have been fully deployed at a Node level.</li>
                         <li>The data discovery elements of the 1+MG proof of concept have been deployed at the Node level, are fully connected with the complete end-to-end system and a plan is in place to update and expand the data discovery capabilities as the needs and standards evolve.</li>
@@ -252,7 +252,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>No metadata structure standards implemented.</li>
-                        <li>Metadata structure standards drafted that are interoperable with the 1+MG network. Deployment may have begun at a local level.</li>
+                        <li>Metadata structure standards drafted that are interoperable with the 1+MG network.</li>
                         <li>Metadata structure standards established that are interoperable with the 1+MG network and are deployed at a Node level.</li>
                         <li>Interoperable metadata structure to support data findability are established, deployed at a Node level, enforced, and open to opportunities and upgrade.</li>
                     </ol>
@@ -265,7 +265,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>No metadata sharing and access policies implemented.</li>
-                        <li>Metadata access policies drafted or deployed at a local level.</li>
+                        <li>Metadata access policies drafted.</li>
                         <li>Metadata access policies created to support data findability at a Node level.</li>
                         <li>Metadata access policies to support data findability are established, enforced, and open to opportunities and advancement.</li>
                     </ol>

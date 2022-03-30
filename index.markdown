@@ -93,11 +93,14 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
         <tr>
             <td>Communications</td>
-            <td>Communications across the data cycle</td>
+            <td>Communications with user groups</td>
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No outreach or dissemination plan.</li>
+                    <li>Requirements being gathered to create a communication plan with user groups.</li>
+                    <li>Communication plan with user groups drafted.</li>
+                    <li>Communication plan with user groups is implemented and encourages use of the infrastructure.</li>
+                    <li>The communication plan with user groups is implemented, encourages use of the international infrastructure and is regularly reviewed.</li>
                 </ol>
             </td>
         </tr>
@@ -251,7 +254,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No metadata structure standards implemented.</li>
+                        <li>Requirements being gathered for metadata structure standardisation needs.</li>
                         <li>Metadata structure standards drafted that are interoperable with the 1+MG network.</li>
                         <li>Metadata structure standards established that are interoperable with the 1+MG network and are deployed at a Node level.</li>
                         <li>Interoperable metadata structure to support data findability are established, deployed at a Node level, enforced, and open to opportunities and upgrade.</li>
@@ -264,7 +267,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Legal</td>
                 <td>
                     <ol>
-                        <li>No metadata sharing and access policies implemented.</li>
+                        <li>Requirements being gathered for metadata sharing and access policy needs.</li>
                         <li>Metadata access policies drafted.</li>
                         <li>Metadata access policies created to support data findability at a Node level.</li>
                         <li>Metadata access policies to support data findability are established, enforced, and open to opportunities and advancement.</li>
@@ -292,7 +295,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>No data reception standardisation mechanisms to ensure consistent data reception.</li>
+                        <li>Requirements being gathered for data reception standardisation mechanisms to ensure consistent data reception.</li>
                         <li>Data reception standardisation mechanisms drafted to ensure consistent data reception and access.</li>
                         <li>Data reception mechanisms to ensure consistent data reception and access deployed at a Node level.</li>
                         <li>Data reception standardisation mechanisms to ensure consistent data reception and access deployed, enforced and open to opportunity and upgrade.</li>
@@ -305,7 +308,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No data or metadata quality control metrics in place such as data standards, file formats, or relevant ontologies.</li>
+                        <li>Metadata quality control metrics requirements being gathered, such as data standards, file formats, or relevant ontologies.</li>
                         <li>Data and metadata standards, interoperable file formats, and relevant ontologies are chosen, may be suggested to users, but not yet enforced.</li>
                         <li>Minimal metadata requirements are enforced, data standards, formats, and ontologies are suggested.</li>
                         <li>Minimal metadata is required and internationally interoperable data standards, file formats, and ontologies are required and enforced and under regular review.</li>
@@ -317,7 +320,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No data quality control requirements in place.</li>
+                        <li>Information being gathered for data quality control requirements.</li>
                         <li>Data quality control requirements have been drafted, but are not yet enforced (manual review?).</li>
                         <li>Data quality control requirements are enforced and automated.</li>
                         <li>Data quality control requirements are enforced, automated and under review in line international quality standards.</li>
@@ -330,7 +333,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Org</td>
                 <td>
                     <ol>
-                        <li>No data quality control procedures to ensure consistent data reception.</li>
+                        <li>Requirements being gathered to draft data quality control procedures to ensure consistent data reception.</li>
                         <li>Data quality control procedures are drafted to ensure consistent data reception and access.</li>
                         <li>Data quality control procedures to ensure consistent data reception and access deployed at a Node level.</li>
                         <li>Data quality control procedures to ensure consistent data reception and access deployed, enforced and open to opportunity and upgrade.</li>
@@ -358,7 +361,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>No secure data storage and access mechanisms.</li>
+                        <li>Requirements being gathered for secure data storage and access mechanisms.</li>
                         <li>Secure data storage and access mechanisms are drafted.</li>
                         <li>Secure data storage and access mechanisms are deployed at a Node level.</li>
                         <li>Secure data storage and access mechanisms are deployed, enforced and open to opportunity and upgrade.</li>
@@ -371,7 +374,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Org</td>
                 <td>
                     <ol>
-                        <li>No physical hardware obtained or contract in place to support the storage needs of the national human data network.</li>
+                        <li>Physical hardware needs are drafted to support the storage needs of the national human data network.</li>
                         <li>Storage needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external storage provider may have occurred.</li>
                         <li>Current storage needs to support the national human data network have been met including backup requirements.</li>
                         <li>Current storage needs to support the national human data network have been met and there is a plan for expansion or change as the Node advances.</li>
@@ -384,7 +387,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Legal</td>
                 <td>
                     <ol>
-                        <li>No or ad hoc data storage and storage security policies.</li>
+                        <li>Requirements being gathered for data storage and storage security policies.</li>
                         <li>Data storage and storage security policies have been drafted and approved by appropriate bodies.</li>
                         <li>Data storage and storage security policies are implemented and enforced.</li>
                         <li>Data storage and storage security policies are enforced, regularly reviewed and open to opportunity and upgrade.</li>
@@ -412,7 +415,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>No technical infrastructure to support data access.</li>
+                        <li>Requirements being gathered for the technical infrastructure to support data access.</li>
                         <li>Data access mechanisms are drafted.</li>
                         <li>Data access mechanisms are deployed at a Node level.</li>
                         <li>Data access mechanisms are deployed, enforced and open to opportunity and upgrade.</li>
@@ -420,12 +423,12 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">Data Management Accecss Semantic Interoperability</td>
+                <td rowspan="2">Data Management Access Semantic Interoperability</td>
                 <td>Data Access Requestor User ID</td>
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No or ad hoc requests of data requestor identifying information.</li>
+                        <li>No or ad hoc gathering of data requestor identifying information.  Requirements being gathered to implement Life Science AAI or compatible system.</li>
                         <li>Plan drafted to implement Life Science AAI or compatible system at the Node level, may be implemented locally.</li>
                         <li>Life Science AAI or compatible system implemented at the Node level.</li>
                         <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
@@ -437,10 +440,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No or ad hoc labeling of datasets for allowed usage.</li>
-                        <li>Plan drafted to implement a consistent ontology for data usage at the Node level.  Implementation of international standards may have begun locally.</li>
+                        <li>No or ad hoc labeling of datasets for allowed usage.  Requirements being gathered to implement a consistent ontology for data usage.</li>
+                        <li>Plan drafted to implement a consistent ontology for data usage at the Node level.</li>
                         <li>Internationally compatible ontology of data usage has been implemented at the Node level.</li>
-                        <li>Internationally compatible ontology of data usage has been implementedat the Node level, is regularly reviewed and feeds back to the ontology creators for updates and expansion.</li>
+                        <li>Internationally compatible ontology of data usage has been implemented at the Node level, is regularly reviewed and feeds back to the ontology creators for updates and expansion.</li>
                     </ol>
                 </td>
             </tr>
@@ -450,7 +453,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Legal</td>
                 <td>
                     <ol>
-                        <li>No agreed Node policies on data access.</li>
+                        <li>Requirements being gathered for Node policies on data access.</li>
                         <li>Data access policies are drafted.</li>
                         <li>Data access policies are deployed at a Node level.</li>
                         <li>Data access policies deployed, enforced and open to opportunity and upgrade.</li>
@@ -478,7 +481,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>No technical infrastructure to support data processing.</li>
+                        <li>Requirements being gathered for the technical infrastructure to support data processing.</li>
                         <li>Technical infrastructure plans to support data processing are drafted.</li>
                         <li>Technical infrastructure for data processing are deployed at the Node level.</li>
                         <li>Technical infrastructure for data processing are deployed, enforced, and open to opportunity and upgrade.</li>
@@ -491,7 +494,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Org</td>
                 <td>
                     <ol>
-                        <li>No physical hardware obtained or contract in place to support the processing needs of the national human data network.</li>
+                        <li>Physical hardware requirements being gathered to support the processing needs of the national human data network.</li>
                         <li>Processing needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external cloud provider may have occurred.</li>
                         <li>Current processing needs to support the national human data network have been met.</li>
                         <li>Current processing needs to support the national human data network have been met, are regularly reviewed and there is a plan for expansion or change as the Node advances.</li>
@@ -504,7 +507,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Legal</td>
                 <td>
                     <ol>
-                        <li>No data processing policies in place.</li>
+                        <li>Requirements being gathered for data processing policies.</li>
                         <li>Data processing policies drafted.</li>
                         <li>Data processing policies are deployed at the Node level.</li>
                         <li>Data processing policies are deployed, enforced and reviewed regularly.</li>

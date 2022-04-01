@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Human Data Maturity Model
+title: Human Data Infrastructure Maturation Model
 email: melissa.konopko@elixir-europe.org
 description: >- # this means to ignore newlines until "baseurl:"
-  This Maturity Model aims to support technical leads in human data sharing projects and organisations. It  
+  This Maturation Model aims to support technical leads in human data sharing projects and organisations. It  
   provides concrete steps in supporting operational goals through the use of standards and alignment 
   with existing projects.
 baseurl: "" # the subpath of your site, e.g. /blog

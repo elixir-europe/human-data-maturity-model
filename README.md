@@ -1,4 +1,4 @@
-## The ELIXIR Human Data Maturity Model
+## The ELIXIR Human Data Infrastructure Maturity Model
 
 This repo contains the code for the ELIXIR Human Data Maturity Model website. The Model is still in development.
 

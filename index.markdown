@@ -242,7 +242,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>Requirements being gathered for the implementation of data discovery functionalities aligned with the 1+MG proof of concept.</li>
-                        <li>A plan is drafted to implement the data discovery elements of the 1+MG proof of concept system.  Some implementation may have begun.</li>
+                        <li>A plan is drafted to implement the data discovery elements of the 1+MG proof of concept system.</li>
                         <li>The data discovery elements of the 1+MG proof of concept system have been fully deployed at a Node level.</li>
                         <li>The data discovery elements of the 1+MG proof of concept have been deployed at the Node level, are fully connected with the complete end-to-end system and a plan is in place to update and expand the data discovery capabilities as the needs and standards evolve.</li>
                     </ol>
@@ -269,7 +269,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                     <ol>
                         <li>Requirements being gathered for metadata sharing and access policy needs.</li>
                         <li>Metadata access policies drafted.</li>
-                        <li>Metadata access policies created to support data findability at a Node level.</li>
+                        <li>Metadata access policies created to support data findability within the federated European human data ecosystem.</li>
                         <li>Metadata access policies to support data findability are established, enforced, and open to opportunities and advancement.</li>
                     </ol>
                 </td>
@@ -296,8 +296,8 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>Requirements being gathered for data reception standardisation mechanisms to ensure consistent data reception.</li>
-                        <li>Data reception standardisation mechanisms drafted to ensure consistent data reception and access.</li>
-                        <li>Data reception mechanisms to ensure consistent data reception and access deployed at a Node level.</li>
+                        <li>Data reception standardisation mechanisms drafted to ensure consistent data reception.</li>
+                        <li>Data reception mechanisms to ensure consistent data reception deployed at a Node level.</li>
                         <li>Data reception standardisation mechanisms to ensure consistent data reception and access deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
@@ -316,13 +316,13 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Reception Data Quality Control</td>
+                <td>Data Reception Quality Control Standards</td>
                 <td>Semantic</td>
                 <td>
                     <ol>
                         <li>Information being gathered for data quality control requirements.</li>
-                        <li>Data quality control requirements have been drafted, but are not yet enforced (manual review?).</li>
-                        <li>Data quality control requirements are enforced and automated.</li>
+                        <li>Data quality control requirements have been drafted, but are not yet enforced, potentially with manual review</li>
+                        <li>Data quality control requirements are enforced and with manual review.</li>
                         <li>Data quality control requirements are enforced, automated and under review in line international quality standards.</li>
                     </ol>
                 </td>
@@ -334,9 +334,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>Requirements being gathered to draft data quality control procedures to ensure consistent data reception.</li>
-                        <li>Data quality control procedures are drafted to ensure consistent data reception and access.</li>
-                        <li>Data quality control procedures to ensure consistent data reception and access deployed at a Node level.</li>
-                        <li>Data quality control procedures to ensure consistent data reception and access deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Data quality control procedures are drafted to ensure consistent data reception.</li>
+                        <li>Data quality control procedures to ensure consistent data reception deployed at a Node level.</li>
+                        <li>Data quality control procedures to ensure consistent data reception deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>
@@ -356,33 +356,33 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Secure Storage and Access Technical Interoperability</td>
-                <td>Storage and Access APIs</td>
+                <td>Secure Storage and Interfaces Technical Interoperability</td>
+                <td>Storage and Interface APIs</td>
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>Requirements being gathered for secure data storage and access mechanisms.</li>
-                        <li>Secure data storage and access mechanisms are drafted.</li>
-                        <li>Secure data storage and access mechanisms are deployed at a Node level.</li>
-                        <li>Secure data storage and access mechanisms are deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Requirements being gathered for secure data storage and submission and retrieval APIs.</li>
+                        <li>Secure data storage and submission and retrieval APIs are drafted.</li>
+                        <li>Secure data storage and submission and retrieval APIs are deployed at a Node level.</li>
+                        <li>Secure data storage and submission and retrieval APIs are deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>
             <tr>
-                <td>Storage and Access Organisational Interoperability</td>
+                <td>Storage and Interfaces Organisational Interoperability</td>
                 <td>Physical Infrastructure for Data Storage</td>
                 <td>Org</td>
                 <td>
                     <ol>
                         <li>Physical hardware needs are drafted to support the storage needs of the national human data network.</li>
                         <li>Storage needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external storage provider may have occurred.</li>
-                        <li>Current storage needs to support the national human data network have been met including backup requirements.</li>
+                        <li>Current storage needs to support the national human data network have been met including data redundancy requirements..</li>
                         <li>Current storage needs to support the national human data network have been met and there is a plan for expansion or change as the Node advances.</li>
                     </ol>
                 </td>
             </tr>
             <tr>
-                <td>Storage and Access Legal Interoperability</td>
+                <td>Storage and Interfaces Legal Interoperability</td>
                 <td>Data Storage Policies</td>
                 <td>Legal</td>
                 <td>
@@ -483,18 +483,18 @@ Ultimately, this model should support technical leads in human data sharing proj
                     <ol>
                         <li>Requirements being gathered for the technical infrastructure to support data processing.</li>
                         <li>Technical infrastructure plans to support data processing are drafted.</li>
-                        <li>Technical infrastructure for data processing are deployed at the Node level.</li>
-                        <li>Technical infrastructure for data processing are deployed, enforced, and open to opportunity and upgrade.</li>
+                        <li>Technical infrastructure for data processing is deployed at the Node level.</li>
+                        <li>Technical infrastructure for data processing is deployed, enforced, and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>
             <tr>
                 <td>Data Processing Organisational Interoperability</td>
-                <td>Physical infrastructure for data processing</td>
+                <td>Data Processing Capacity</td>
                 <td>Org</td>
                 <td>
                     <ol>
-                        <li>Physical hardware requirements being gathered to support the processing needs of the national human data network.</li>
+                        <li>Processing requirements being gathered to support the needs of the national human data network.</li>
                         <li>Processing needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external cloud provider may have occurred.</li>
                         <li>Current processing needs to support the national human data network have been met.</li>
                         <li>Current processing needs to support the national human data network have been met, are regularly reviewed and there is a plan for expansion or change as the Node advances.</li>
@@ -503,7 +503,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </tr>
             <tr>
                 <td>Data Processing Legal Interoperability</td>
-                <td>Data processing service terms (eg, Node agreement with the cloud provider and user agreement with Node)</td>
+                <td>Data Processing Service Terms (eg, Node agreement with the cloud provider and user agreement with Node)</td>
                 <td>Legal</td>
                 <td>
                     <ol>

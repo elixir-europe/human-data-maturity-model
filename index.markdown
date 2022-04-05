@@ -97,10 +97,10 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered to create a communication plan with user groups.</li>
-                    <li>Communication plan with user groups drafted.</li>
-                    <li>Communication plan with user groups is implemented and encourages use of the infrastructure.</li>
-                    <li>The communication plan with user groups is implemented, encourages use of the international infrastructure and is regularly reviewed.</li>
+                    <li>Requirements being gathered to create a communication and outreach plan with user groups.</li>
+                    <li>Communication and outreach plan with user groups drafted.</li>
+                    <li>Communication and outreach plan with user groups is implemented and encourages use of the infrastructure.</li>
+                    <li>The communication and outreach plan with user groups is implemented, encourages use of the international infrastructure and is regularly reviewed.</li>
                 </ol>
             </td>
         </tr>

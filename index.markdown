@@ -50,19 +50,6 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </ol>
             </td>
         </tr>
-        <tr>
-            <td>Data Reuse</td>
-            <td>Data reuse licensing</td>
-            <td>Legal</td>
-            <td>
-                <ol>
-                    <li>Ad hoc data reuse licensing practices, requirements being gathered to create a cohesive plan.</li>
-                    <li>Node data reuse licensing plan drafted.</li>
-                    <li>The data reuse licensing plan that supports international data sharing aligned with the 1+MG infrastructure has been implemented at the Node level.</li>
-                    <li>Data reuse licensing plan that supports international data sharing has been implemented, is enforced, and is regularly reviewed.</li>
-                </ol>
-            </td>
-        </tr>
     </table>
     </section>
     <h3> 

@@ -93,7 +93,7 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
         <tr>
             <td>Communications</td>
-            <td>Communications with user groups</td>
+            <td>Communications with User Groups</td>
             <td>Org</td>
             <td>
                 <ol>
@@ -477,7 +477,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </tr>
             <tr>
                 <td>Data Processing Technical Interoperability</td>
-                <td>Data processing technical infrastructure</td>
+                <td>Data Processing Technical Infrastructure</td>
                 <td>Tech</td>
                 <td>
                     <ol>

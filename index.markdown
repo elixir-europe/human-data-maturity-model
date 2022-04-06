@@ -30,8 +30,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered to set legal agreements in place supporting international data sharing such as the Federated EGA agreements.</li>
-                    <li>Legal agreements drafted to support international data sharing such as the Federated EGA Agreements.</li>
+                    <li>Requirements being gathered to set legal agreements in place supporting international data sharing.</li>
+                    <li>Legal agreements drafted to support international data sharing.</li>
                     <li>Legal agreements in place to support international data sharing.</li>
                     <li>Legal agreements in place to support international data sharing and a mechanism for updates exists.</li>
                 </ol>
@@ -43,15 +43,15 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>Gathering requirements for policies and agreements to enable effective and secure cross-border access to sensitive human data.</li>
-                    <li>Cohesive plan drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data.</li>
+                    <li>Gathering requirements for policies and agreements which align with the 1+MG Trust Framework to enable effective and secure cross-border access to sensitive human data.</li>
+                    <li>Cohesive plan that aligns with the 1+MG Trust Framework drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data. </li>
                     <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented at the Node level to support secure cross-border data access of sensitive human data.</li>
                     <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented and enforced at the Node level and is under regular review.</li>
                 </ol>
             </td>
         </tr>
         <tr>
-            <td>Data Reuse Legal Interoperability</td>
+            <td>Data Reuse</td>
             <td>Data reuse licensing</td>
             <td>Legal</td>
             <td>
@@ -106,11 +106,11 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
         <tr>
             <td rowspan="4">Alignment with initiatives</td>
-            <td>1+MG Alignment</td>
+            <td>1+MG National Mirror Group Alignment</td>
             <td>Org</td>
             <td>
                 <ol>
-                    <li>No 1+MG National Mirror Group (or equivalent).</li>
+                    <li>Requirements being gathered to establish a 1+MG National Mirror Group (or equivalent).</li>
                     <li>1+MG National Mirror Group (or equivalent) established.</li>
                     <li>1+MG National Mirror Group (or equivalent) established and functioning to deliver a roadmap that is compatible with 1+MG.</li>
                     <li>Demonstrated advancements and leadership of activities to support infrastructure and services that align with the 1+MG roadmap.</li>
@@ -146,10 +146,10 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered to form a mutual connection between the Node's activities and the National or Regional Genomic Programme.</li>
-                    <li>Plan drafted and key individuals identified for forming a mutual connection between the Node's activities and the National or Regional Genomic Programme.</li>
-                    <li>Human data activities of the Node and the National or Regional Genomic Programme are harmonised and collaborating.</li>
-                    <li>Human data activities of the Node and the National or Regional Genomic Programme are harmonised and the Programme is utilising ELIXIR tools, services and/or knowledge. A plan is in place to ensure the continuity of this collaboration.</li>
+                    <li>Requirements being gathered to form a mutual connection between the Node's activities and the current National or Regional Genomic Programme.</li>
+                    <li>Plan drafted and key individuals identified for forming a mutual connection between the Node's activities and the current National or Regional Genomic Programme.</li>
+                    <li>Human data activities of the Node and the current National or Regional Genomic Programme are harmonised and collaborating.</li>
+                    <li>Human data activities of the Node and the current National or Regional Genomic Programme are harmonised and the Programme is utilising ELIXIR tools, services and/or knowledge. A plan is in place to ensure the continuity of this collaboration.</li>
                 </ol>
             </td>
         </tr>
@@ -415,10 +415,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>Requirements being gathered for the technical infrastructure to support data access.</li>
-                        <li>Data access mechanisms are drafted.</li>
-                        <li>Data access mechanisms are deployed at a Node level.</li>
-                        <li>Data access mechanisms are deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Requirements being gathered for the technical infrastructure to support data access across borders.</li>
+                        <li>Data access mechanisms to support data access cross borders are drafted.</li>
+                        <li>Data access mechanisms to support data access across borders are deployed at a Node level.</li>
+                        <li>Data access mechanisms to support data access across borders are deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>

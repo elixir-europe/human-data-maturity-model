@@ -37,19 +37,6 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </ol>
             </td>
         </tr>
-         <tr>
-            <td>Trust & Transparency</td>
-            <td>Alignment with the 1+Million Genomes (1+MG) Trust Framework</td>
-            <td>Legal</td>
-            <td>
-                <ol>
-                    <li>Gathering requirements for policies and agreements which align with the 1+MG Trust Framework to enable effective and secure cross-border access to sensitive human data.</li>
-                    <li>Cohesive plan that aligns with the 1+MG Trust Framework drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data. </li>
-                    <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented at the Node level to support secure cross-border data access of sensitive human data.</li>
-                    <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented and enforced at the Node level and is under regular review.</li>
-                </ol>
-            </td>
-        </tr>
     </table>
     </section>
     <h3> 
@@ -92,7 +79,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td rowspan="4">Alignment with initiatives</td>
+            <td rowspan="5">Alignment with initiatives</td>
             <td>1+MG National Mirror Group Alignment</td>
             <td>Org</td>
             <td>
@@ -101,6 +88,18 @@ Ultimately, this model should support technical leads in human data sharing proj
                     <li>1+MG National Mirror Group (or equivalent) established.</li>
                     <li>1+MG National Mirror Group (or equivalent) established and functioning to deliver a roadmap that is compatible with 1+MG.</li>
                     <li>Demonstrated advancements and leadership of activities to support infrastructure and services that align with the 1+MG roadmap.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td>Alignment with the 1+Million Genomes (1+MG) Trust Framework</td>
+            <td>Legal</td>
+            <td>
+                <ol>
+                    <li>Gathering requirements for policies and agreements which align with the 1+MG Trust Framework to enable effective and secure cross-border access to sensitive human data.</li>
+                    <li>Cohesive plan that aligns with the 1+MG Trust Framework drafted covering policies and agreements enabling effective and secure cross-border access to sensitive human data. </li>
+                    <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented at the Node level to support secure cross-border data access of sensitive human data.</li>
+                    <li>Cohesive plan that aligns with the 1+MG trust framework has been implemented and enforced at the Node level and is under regular review.</li>
                 </ol>
             </td>
         </tr>

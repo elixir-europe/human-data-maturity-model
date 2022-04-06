@@ -142,14 +142,14 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>National Genomic Program</td>
+            <td>National Genomic Programme</td>
             <td>Legal</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered to write a plan for a National Genomic Program.</li>
-                    <li>National Genomic Program plan drafted that aligns with key international data sharing projects.</li>
-                    <li>National Genomic Program that aligns with key international data sharing projects has been approved and deployment may have been initiated.</li>
-                    <li>National Genomic Program is aligned with key international data sharing projects, is fully deployed and a mechanism for updates and improvements is in place.</li>
+                    <li>Requirements being gathered to form a mutual connection between the Node's activities and the National or Regional Genomic Programme.</li>
+                    <li>Plan drafted and key individuals identified for forming a mutual connection between the Node's activities and the National or Regional Genomic Programme.</li>
+                    <li>Human data activities of the Node and the National or Regional Genomic Programme are harmonised and collaborating.</li>
+                    <li>Human data activities of the Node and the National or Regional Genomic Programme are harmonised and the Programme is utilising ELIXIR tools, services and/or knowledge. A plan is in place to ensure the continuity of this collaboration.</li>
                 </ol>
             </td>
         </tr>

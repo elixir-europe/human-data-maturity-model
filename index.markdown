@@ -402,10 +402,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>Requirements being gathered for the technical infrastructure to support data access across borders.</li>
-                        <li>Data access mechanisms to support data access cross borders are drafted.</li>
-                        <li>Data access mechanisms to support data access across borders are deployed at a Node level.</li>
-                        <li>Data access mechanisms to support data access across borders are deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Requirements being gathered for the system to support data access across borders using Life Science AAI or compatible system.</li>
+                        <li>Plan to implement a system has been drafted to support data access across borders using Life Science AAI or compatible system.</li>
+                        <li>Life Science AAI or compatible system implemented at the Node level to support data access across borders.</li>
+                        <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>
@@ -415,10 +415,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>No or ad hoc gathering of data requestor identifying information.  Requirements being gathered to implement Life Science AAI or compatible system.</li>
-                        <li>Plan drafted to implement Life Science AAI or compatible system at the Node level, may be implemented locally.</li>
-                        <li>Life Science AAI or compatible system implemented at the Node level.</li>
-                        <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
+                        <li>Ad hoc collecting of data requestor identifying information.  Gathering requirements to implement a standardised data requestor user ID and credentials.</li>
+                        <li>Plan drafted to implement a standardised data requestor user ID, such as the one that is part of Life Science AAI.</li>
+                        <li>Standardised data requestor user ID, such as the one that is part of Life Science AAI, has been implemented.</li>
+                        <li>Standardised data requestor user ID, such as the one that is part of Life Science AAI, has been implemented, is regularly reviewed, and is open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>

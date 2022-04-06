@@ -223,7 +223,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Discoverability Technical Interoperability</td>
+                <td>Data Discoverability Technical Concerns</td>
                 <td>Data Discovery Functionalities</td>
                 <td>Tech</td>
                 <td>
@@ -236,7 +236,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Discoverability Semantic Interoperability</td>
+                <td>Data Discoverability Semantics</td>
                 <td>Metadata structure</td>
                 <td>Semantic</td>
                 <td>
@@ -249,7 +249,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Discoverability Legal Interoperability</td>
+                <td>Data Discoverability Legal Concerns</td>
                 <td>Metadata Sharing and Access Policies</td>
                 <td>Legal</td>
                 <td>
@@ -277,7 +277,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data reception Technical Interoperability</td>
+                <td>Data reception Technical Concerns</td>
                 <td>Data Reception APIs</td>
                 <td>Tech</td>
                 <td>
@@ -290,7 +290,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">Data Reception Semantic Interoperability</td>
+                <td rowspan="2">Data Reception Semantics</td>
                 <td>Data Reception Standards</td>
                 <td>Semantic</td>
                 <td>
@@ -315,7 +315,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Reception Organisational Interoperability</td>
+                <td>Data Reception Organisational Concerns</td>
                 <td>Data Quality Control Procedures</td>
                 <td>Org</td>
                 <td>
@@ -343,7 +343,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Secure Storage and Interfaces Technical Interoperability</td>
+                <td>Secure Storage and Interfaces Technical Concerns</td>
                 <td>Storage and Interface APIs</td>
                 <td>Tech</td>
                 <td>
@@ -356,7 +356,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Storage and Interfaces Organisational Interoperability</td>
+                <td>Storage and Interfaces Organisational Concerns</td>
                 <td>Physical Infrastructure for Data Storage</td>
                 <td>Org</td>
                 <td>
@@ -369,7 +369,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Storage and Interfaces Legal Interoperability</td>
+                <td>Storage and Interfaces Legal Concerns</td>
                 <td>Data Storage Policies</td>
                 <td>Legal</td>
                 <td>
@@ -397,7 +397,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Management Access Technical Interoperability</td>
+                <td>Data Management Access Technical Concerns</td>
                 <td>Data Access Mechanisms</td>
                 <td>Tech</td>
                 <td>
@@ -410,7 +410,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">Data Management Access Semantic Interoperability</td>
+                <td rowspan="2">Data Management Access Semantics</td>
                 <td>Data Access Requestor User ID</td>
                 <td>Semantic</td>
                 <td>
@@ -435,7 +435,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Management Access Legal Interoperability</td>
+                <td>Data Management Access Legal Concerns</td>
                 <td>Data Access Policies</td>
                 <td>Legal</td>
                 <td>
@@ -463,7 +463,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Processing Technical Interoperability</td>
+                <td>Data Processing Technical Concerns</td>
                 <td>Data Processing Technical Infrastructure</td>
                 <td>Tech</td>
                 <td>
@@ -476,7 +476,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Processing Organisational Interoperability</td>
+                <td>Data Processing Organisational Concerns</td>
                 <td>Data Processing Capacity</td>
                 <td>Org</td>
                 <td>
@@ -489,7 +489,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Processing Legal Interoperability</td>
+                <td>Data Processing Legal Concerns</td>
                 <td>Data Processing Service Terms (eg, Node agreement with the cloud provider and user agreement with Node)</td>
                 <td>Legal</td>
                 <td>

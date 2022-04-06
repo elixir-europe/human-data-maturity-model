@@ -154,7 +154,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Long term funding</td>
+            <td>Long-term Funding</td>
             <td>Planning and secured funding</td>
             <td>Org</td>
             <td>

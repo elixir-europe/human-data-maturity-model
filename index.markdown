@@ -158,7 +158,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered to create a business plan in place to support the infrastructure.</li>
+                    <li>Requirements being gathered to create a business plan to support the infrastructure.</li>
                     <li>Business plan drafted to support the infrastructure.</li>
                     <li>Business plan has been deployed and is currently helping to sustain the infrastructure.</li>
                     <li>Business plan to support the infrastructure is operating, is periodically evaluated for optimization, taking into account developments.</li>

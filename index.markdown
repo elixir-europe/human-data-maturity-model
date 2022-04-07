@@ -276,7 +276,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data reception Technical Concerns</td>
+                <td>Data Reception Technical Concerns</td>
                 <td>Data Reception APIs</td>
                 <td>Tech</td>
                 <td>

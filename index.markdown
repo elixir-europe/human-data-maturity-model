@@ -80,7 +80,7 @@ Ultimately, this model should support technical leads in human data sharing proj
         </tr>
         <tr>
             <td rowspan="5">Alignment with initiatives</td>
-            <td>1+MG National Mirror Group Alignment</td>
+            <td>1+ Million Genome (1+MG) National Mirror Group Alignment</td>
             <td>Org</td>
             <td>
                 <ol>
@@ -92,7 +92,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Alignment with the 1+Million Genomes (1+MG) Trust Framework</td>
+            <td>Alignment with the 1+MG Trust Framework</td>
             <td>Legal</td>
             <td>
                 <ol>

@@ -207,7 +207,7 @@ Ultimately, this model should support technical leads in human data sharing proj
 </div>
 
 <div class="bg-white">
-    <h2>Technical</h2>
+    <h2>Core Functionalities</h2>
     <h3>
         <button class="accordion" id="accordion-header-3" aria-expanded="false" aria-controls="accordion-panel-3" data-accordion-header>
             Data Discoverability

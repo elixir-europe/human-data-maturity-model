@@ -362,7 +362,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                     <ol>
                         <li>Physical hardware needs are drafted to support the storage needs of the national human data network.</li>
                         <li>Storage needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external storage provider may have occurred.</li>
-                        <li>Current storage needs to support the national human data network have been met including data redundancy requirements.</li>
+                        <li>Current storage needs to support the national human data network have been met including mechanisms to prevent data loss.</li>
                         <li>Current storage needs to support the national human data network have been met and there is a plan for expansion or change as the Node advances.</li>
                     </ol>
                 </td>

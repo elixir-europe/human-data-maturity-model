@@ -254,7 +254,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>Requirements being gathered for metadata sharing and access policy needs.</li>
-                        <li>Metadata access policies drafted.</li>
+                        <li>Metadata access policies are drafted.</li>
                         <li>Metadata access policies created to support data findability within the federated European human data ecosystem.</li>
                         <li>Metadata access policies to support data findability are established, enforced, and open to opportunities and advancement.</li>
                     </ol>
@@ -282,9 +282,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>
                     <ol>
                         <li>Requirements being gathered for data reception standardisation mechanisms to ensure consistent data reception.</li>
-                        <li>Data reception standardisation mechanisms drafted to ensure consistent data reception.</li>
-                        <li>Data reception mechanisms to ensure consistent data reception deployed at a Node level.</li>
-                        <li>Data reception standardisation mechanisms to ensure consistent data reception and access deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Data reception standardisation mechanisms are drafted to ensure consistent data reception.</li>
+                        <li>Data reception mechanisms to ensure consistent data reception are deployed at a Node level.</li>
+                        <li>Data reception standardisation mechanisms to ensure consistent data reception and access are deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>
@@ -321,8 +321,8 @@ Ultimately, this model should support technical leads in human data sharing proj
                     <ol>
                         <li>Requirements being gathered to draft data quality control procedures to ensure consistent data reception.</li>
                         <li>Data quality control procedures are drafted to ensure consistent data reception.</li>
-                        <li>Data quality control procedures to ensure consistent data reception deployed at a Node level.</li>
-                        <li>Data quality control procedures to ensure consistent data reception deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Data quality control procedures to ensure consistent data reception are deployed at a Node level.</li>
+                        <li>Data quality control procedures to ensure consistent data reception are deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>

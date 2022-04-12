@@ -140,7 +140,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Long-term Funding</td>
+            <td rowspan="2">Sustainability</td>
             <td>Planning and secured funding</td>
             <td>Org</td>
             <td>
@@ -153,7 +153,6 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Sustainability</td>
             <td>Business Plan</td>
             <td>Org</td>
             <td>

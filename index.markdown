@@ -479,10 +479,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Org</td>
                 <td>
                     <ol>
-                        <li>Processing requirements being gathered to support the needs of the national human data network.</li>
-                        <li>Processing needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external cloud provider may have occurred.</li>
-                        <li>Current processing needs to support the national human data network have been met.</li>
-                        <li>Current processing needs to support the national human data network have been met, are regularly reviewed and there is a plan for expansion or change as the Node advances.</li>
+                        <li>Requirements being gathered to support the data processing needs of the national human data network.</li>
+                        <li>Data processing needs have been drafted and planned to support the national human data network. Some hardware acquisition or contract negotiations with an external cloud provider may have occurred.</li>
+                        <li>Current data processing needs to support the national human data network have been met.</li>
+                        <li>Current data processing needs to support the national human data network have been met, are regularly reviewed and there is a plan for expansion or change as the Node advances.</li>
                     </ol>
                 </td>
             </tr>

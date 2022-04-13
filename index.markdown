@@ -301,7 +301,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Reception Quality Control Standards</td>
+                <td>Data Reception Quality Control Requirements</td>
                 <td>Semantic</td>
                 <td>
                     <ol>

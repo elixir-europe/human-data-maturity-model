@@ -288,7 +288,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">Data Reception Semantics</td>
+                <td>Data Reception Semantics</td>
                 <td>Data Reception Standards</td>
                 <td>Semantic</td>
                 <td>
@@ -301,6 +301,7 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
+                <td rowspan="2">Data Reception Organisational Concerns</td>
                 <td>Data Reception Quality Control Requirements</td>
                 <td>Semantic</td>
                 <td>
@@ -313,7 +314,6 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Reception Organisational Concerns</td>
                 <td>Data Quality Control Procedures</td>
                 <td>Org</td>
                 <td>

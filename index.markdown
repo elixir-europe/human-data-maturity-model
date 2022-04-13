@@ -488,7 +488,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </tr>
             <tr>
                 <td>Data Processing Legal Concerns</td>
-                <td>Data Processing Service Terms (eg, Node agreement with the cloud provider and user agreement with Node)</td>
+                <td>Data Processing Service Terms</td>
                 <td>Legal</td>
                 <td>
                     <ol>

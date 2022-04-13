@@ -293,10 +293,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Semantic</td>
                 <td>
                     <ol>
-                        <li>Data and metadata quality control metrics requirements being gathered, such as minimal metadata requirements, data standards, file formats, or relevant ontologies.</li>
-                        <li>Data and metadata standards, interoperable file formats, and relevant ontologies are chosen, may be suggested to users, but not yet enforced.</li>
+                        <li>Data and metadata reception requirements being gathered, such as minimal metadata requirements, data standards, file formats, or relevant ontologies.</li>
+                        <li>Data and metadata requirements, standards, interoperable file formats, and relevant ontologies are chosen, may be suggested to users, but not yet enforced.</li>
                         <li>Minimal metadata requirements are enforced, data standards, formats, and ontologies are suggested.</li>
-                        <li>Minimal metadata is required and internationally interoperable data standards, file formats, and ontologies are required and enforced and under regular review.</li>
+                        <li>Minimal metadata and internationally interoperable data standards, file formats, and ontologies are required and enforced and under regular review.</li>
                     </ol>
                 </td>
             </tr>

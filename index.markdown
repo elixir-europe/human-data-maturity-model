@@ -333,10 +333,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <td>Tech</td>
                 <td>
                     <ol>
-                        <li>Requirements being gathered for secure data storage and submission and retrieval APIs.</li>
-                        <li>Secure data storage and submission and retrieval APIs are drafted.</li>
-                        <li>Secure data storage and submission and retrieval APIs are deployed at a Node level.</li>
-                        <li>Secure data storage and submission and retrieval APIs are deployed, enforced and open to opportunity and upgrade.</li>
+                        <li>Requirements being gathered for secure data storage and APIs supporting submission, metadata, and distribution.</li>
+                        <li>Secure data storage and APIs supporting submission, metadata, and distribution are drafted.</li>
+                        <li>Secure data storage and APIs supporting submission, metadata, and distribution are deployed at a Node level.</li>
+                        <li>Secure data storage and APIs supporting submission, metadata, and distribution are deployed, enforced and open to opportunity and upgrade.</li>
                     </ol>
                 </td>
             </tr>

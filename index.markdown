@@ -53,19 +53,6 @@ Ultimately, this model should support technical leads in human data sharing proj
             <th>Levels</th>
         </tr>
         <tr>
-            <td>Governance</td>
-            <td>Governance structure</td>
-            <td>Org</td>
-            <td>
-                <ol>
-                    <li>No governance body or structure in place to support the national human genomics infrastructure.</li>
-                    <li>Governance structure is defined, but the governing body is not fully functional or meeting regularly.</li>
-                    <li>Governance body is fully operating, led centrally, and activities are monitored based on a work plan.</li>
-                    <li>Governance body is institutionalized, recognized as the lead for the national genomics data infrastructure, and is open to novel developments and supportive of international cooperation.</li>
-                </ol>
-            </td>
-        </tr>
-        <tr>
             <td>Communications</td>
             <td>Communications with User Groups</td>
             <td>Org</td>

@@ -133,7 +133,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>
                 <ol>
                     <li>Requirements being gathered to create a long term funding plan to support the operation of the Infrastructure.</li>
-                    <li>Developed a national plan to secure long term funding for the operation of the infrastructure, initial (4-5 year) funding has been secured.</li>
+                    <li>Developed a plan to secure long term funding for the operation of the infrastructure, initial (4-5 year) funding has been secured.</li>
                     <li>Long term funding secured for the national infrastructure.</li>
                     <li>Long term sustainability plan in place.</li>
                 </ol>

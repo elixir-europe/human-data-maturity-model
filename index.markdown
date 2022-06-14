@@ -152,7 +152,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td rowspan="3">Capacity Building</td>
+            <td rowspan="3">Human Capacity Building</td>
             <td>ELSI Capacity</td>
             <td>Org</td>
             <td>

@@ -157,10 +157,10 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered for national capacity supporting ELSI concerns of human genomic data sharing, currently covered ad hoc.</li>
-                    <li>ELSI capacity requirements are drafted and recruiting is underway.  Full national capacity needs are not yet met.</li>
-                    <li>Current ELSI national capacity needs met.</li>
-                    <li>Current ELSI national capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
+                    <li>Requirements being gathered for Node capacity supporting ELSI concerns of human genomic data sharing, currently covered ad hoc.</li>
+                    <li>ELSI capacity requirements are drafted and recruiting is underway.  Full Node capacity needs are not yet met.</li>
+                    <li>Current Node ELSI capacity needs met.</li>
+                    <li>Current Node ELSI capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
                 </ol>
             </td>
         </tr>
@@ -169,10 +169,10 @@ Ultimately, this model should support technical leads in human data sharing proj
             <td>Org</td>
             <td>
                 <ol>
-                    <li>Requirements being gathered for national capacity supporting technical requirements for human genomic data sharing, currently covered ad hoc.</li>
-                    <li>Technical capacity requirements are drafted and recruiting is underway.  Full national capacity needs are not yet met.</li>
-                    <li>Current technical national capacity needs met.</li>
-                    <li>Current technical national capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
+                    <li>Requirements being gathered for Node capacity supporting technical requirements for human genomic data sharing, currently covered ad hoc.</li>
+                    <li>Technical capacity requirements are drafted and recruiting is underway.  Full Node capacity needs are not yet met.</li>
+                    <li>Current Node technical capacity needs met.</li>
+                    <li>Current Node technical capacity needs are met and there is a plan for expansion or change as the Node advances.</li>
                 </ol>
             </td>
         </tr>

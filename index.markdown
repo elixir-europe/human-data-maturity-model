@@ -375,64 +375,64 @@ Ultimately, this model should support technical leads in human data sharing proj
     </h3>
     <section class="panel" id="accordion-panel-6" aria-labelledby="accordion-header-6" hidden>
         <table>
-            <tr>
-                <th>Subdomains</th>
-                <th>Indicator</th>
-                <th>EOSC Interop</th>
-                <th>Levels</th>
-            </tr>
-            <tr>
-                <td>Data Management Access Technical Concerns</td>
-                <td>Data Access Mechanisms</td>
-                <td>Tech</td>
-                <td>
-                    <ol>
-                        <li>Requirements being gathered for the system to support data access across borders using Life Science AAI or compatible system.</li>
-                        <li>Plan to implement a system has been drafted to support data access across borders using Life Science AAI or compatible system.</li>
-                        <li>Life Science AAI or compatible system implemented at the Node level to support data access across borders.</li>
-                        <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
-                    </ol>
-                </td>
-            </tr>
-            <tr>
-                <td rowspan="2">Data Management Access Semantics</td>
-                <td>Data Access Requestor User ID</td>
-                <td>Semantic</td>
-                <td>
-                    <ol>
-                        <li>Ad hoc collecting of data requestor identifying information.  Gathering requirements to implement a standardised data requestor user ID and credentials.</li>
-                        <li>Plan drafted to implement a standardised data requestor user ID, such as the one that is part of Life Science AAI.</li>
-                        <li>Standardised data requestor user ID, such as the one that is part of Life Science AAI, has been implemented.</li>
-                        <li>Standardised data requestor user ID, such as the one that is part of Life Science AAI, has been implemented, is regularly reviewed, and is open to opportunity and upgrade.</li>
-                    </ol>
-                </td>
-            </tr>
-            <tr>
-                <td>Data Use Semantics</td>
-                <td>Semantic</td>
-                <td>
-                    <ol>
-                        <li>No or ad hoc labeling of datasets for allowed usage.  Requirements being gathered to implement a consistent ontology for data usage.</li>
-                        <li>Plan drafted to implement a consistent ontology for data usage at the Node level.</li>
-                        <li>Internationally compatible ontology of data usage has been implemented at the Node level.</li>
-                        <li>Internationally compatible ontology of data usage has been implemented at the Node level, is regularly reviewed and feeds back to the ontology creators for updates and expansion.</li>
-                    </ol>
-                </td>
-            </tr>
-            <tr>
-                <td>Data Management Access Legal Concerns</td>
-                <td>Data Access Policies</td>
-                <td>Legal</td>
-                <td>
-                    <ol>
-                        <li>Requirements being gathered for Node policies on data access.</li>
-                        <li>Data access policies are drafted.</li>
-                        <li>Data access policies are deployed at a Node level.</li>
-                        <li>Data access policies deployed, enforced and open to opportunity and upgrade.</li>
-                    </ol>
-                </td>
-            </tr>
-        </table>
+  <tr>
+    <th>Subdomains</th>
+    <th>Indicator</th>
+    <th>EOSC Interop</th>
+    <th>Levels</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Data Management & Access Technical Concerns</td>
+    <td>Access Control Mechanisms</td>
+    <td>Tech</td>
+    <td>
+      <ol>
+        <li>Requirements being gathered for the system to support controlled access management using Life Science AAI or compatible system.</li>
+        <li>Plan to implement a system has been drafted to support controlled access using Life Science AAI or compatible system.</li>
+        <li>Life Science AAI or compatible system implemented at the Node level to support controlled access.</li>
+        <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
+      </ol>
+    </td>
+</tr>
+<tr>
+    <td>Permissions Management</td>
+    <td>Semantic</td>
+    <td>
+      <ol>
+        <li>Requirements being gathered for the system to support permissions management using Life Science AAI or compatible system.</li>
+        <li>Plan to implement a system has been drafted to support permissions management using Life Science AAI or compatible system.</li>
+        <li>Life Science AAI or compatible system implemented at the Node level to support permissions management.</li>
+        <li>Life Science AAI or compatible system is deployed, regularly reviewed and open to opportunity and upgrade.</li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>Data Management & Access Semantics</td>
+    <td>Data Use Semantics</td>
+    <td>Semantic</td>
+    <td>
+      <ol>
+        <li>No or ad hoc labeling of datasets for allowed usage. Requirements being gathered to implement a consistent ontology for data usage and access policies.</li>
+        <li>Plan drafted to implement a consistent ontology for data usage and access policies at the Node level. </li>
+        <li>Internationally compatible ontology of data usage and access policies has been implemented at the Node level.</li>
+        <li>Internationally compatible ontology of data usage and access policies has been implemented at the Node level, is regularly reviewed and feeds back to the ontology creators for updates and expansion.</li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>Data Management & Access Legal Concerns</td>
+    <td>Data & Metadata sharing & access policies</td>
+    <td>Legal</td>
+    <td>
+      <ol>
+        <li>Requirements being gathered for data & metadata sharing and access policy needs to support data access & discoverability.</li>
+        <li>Data & metadata access policies to support data access & discoverability are drafted.</li>
+        <li>Data & metadata access policies created to support data access & discoverability within the federated European human data ecosystem.</li>
+        <li>Data & metadata access policies are established, enforced, and open to opportunities and advancement.</li>
+      </ol>
+    </td>
+  </tr>
+</table>
     </section>
     <h3>
         <button class="accordion" id="accordion-header-7" aria-expanded="false" aria-controls="accordion-panel-7" data-accordion-header>

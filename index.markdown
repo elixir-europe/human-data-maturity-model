@@ -13,7 +13,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     <h2>Institutional</h2>
     <h3>
         <button class="accordion" id="accordion-header-1" aria-expanded="false" aria-controls="accordion-panel-1" data-accordion-header>
-            ELSI
+            [1] ELSI
         </button>
     </h3>
     <section class="panel" id="accordion-panel-1" aria-labelledby="accordion-header-1" hidden>
@@ -21,13 +21,15 @@ Ultimately, this model should support technical leads in human data sharing proj
         <tr>
             <th>Subdomains</th>
             <th>Indicator</th>
-            <th>EOSC Interop</th>
+            <th>Connected Indicator</th>
             <th>Levels</th>
         </tr>
         <tr>
-            <td>Legal Governance</td>
-            <td>Legal Governance for International Agreements</td>
-            <td>Legal</td>
+            <td>[1.1] Legal Governance</td>
+            <td>[1.1.1]Legal Governance for International Agreements</td>
+            <td>6.3.1
+            5.3.1
+            3.3.1</td>
             <td>
                 <ol>
                     <li>Requirements being gathered to set legal agreements in place supporting international data sharing.</li>
@@ -49,7 +51,7 @@ Ultimately, this model should support technical leads in human data sharing proj
         <tr>
             <th>Subdomains</th>
             <th>Indicator</th>
-            <th>EOSC Interop</th>
+            <th>Connected Indicator</th>
             <th>Levels</th>
         </tr>
         <tr>
@@ -204,7 +206,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <tr>
                 <th>Subdomains</th>
                 <th>Indicator</th>
-                <th>EOSC Interop</th>
+                <th>Connected Indicator</th>
                 <th>Levels</th>
             </tr>
             <tr>
@@ -258,7 +260,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <tr>
                 <th>Subdomains</th>
                 <th>Indicator</th>
-                <th>EOSC Interop</th>
+                <th>Connected Indicator</th>
                 <th>Levels</th>
             </tr>
             <tr>
@@ -324,7 +326,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <tr>
                 <th>Subdomains</th>
                 <th>Indicator</th>
-                <th>EOSC Interop</th>
+                <th>Connected Indicator</th>
                 <th>Levels</th>
             </tr>
             <tr>
@@ -378,7 +380,7 @@ Ultimately, this model should support technical leads in human data sharing proj
   <tr>
     <th>Subdomains</th>
     <th>Indicator</th>
-    <th>EOSC Interop</th>
+    <th>Connected Indicator</th>
     <th>Levels</th>
   </tr>
   <tr>
@@ -444,7 +446,7 @@ Ultimately, this model should support technical leads in human data sharing proj
             <tr>
                 <th>Subdomains</th>
                 <th>Indicator</th>
-                <th>EOSC Interop</th>
+                <th>Connected Indicator</th>
                 <th>Levels</th>
             </tr>
             <tr>

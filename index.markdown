@@ -27,8 +27,8 @@ Ultimately, this model should support technical leads in human data sharing proj
         <tr>
             <td>[1.1] Legal Governance</td>
             <td>[1.1.1]Legal Governance for International Agreements</td>
-            <td>6.3.1
-            5.3.1
+            <td>6.3.1 <br>
+            5.3.1<br>
             3.3.1</td>
             <td>
                 <ol>
@@ -43,7 +43,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     </section>
     <h3> 
         <button class="accordion" id="accordion-header-2" aria-expanded="false" aria-controls="accordion-panel-2" data-accordion-header>
-            Organisation
+            [2] Organisation
         </button>
     </h3>
     <section id="accordion-panel-2" aria-labelledby="accordion-header-2" hidden class="panel">
@@ -55,9 +55,9 @@ Ultimately, this model should support technical leads in human data sharing proj
             <th>Levels</th>
         </tr>
         <tr>
-            <td>Communications</td>
-            <td>Communications with User Groups</td>
-            <td>Org</td>
+            <td>[2.1] Communications</td>
+            <td>[2.1.1] Communications with User Groups</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered to create a communication and outreach plan with user groups.</li>
@@ -68,9 +68,9 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td rowspan="5">Alignment with initiatives</td>
-            <td>1+ Million Genome (1+MG) National Mirror Group Alignment</td>
-            <td>Org</td>
+            <td rowspan="5">[2.2] Alignment with initiatives</td>
+            <td>[2.2.1]1+ Million Genome (1+MG) National Mirror Group Alignment</td>
+            <td>2.2.2</td>
             <td>
                 <ol>
                     <li>Requirements being gathered to establish a 1+MG National Mirror Group (or equivalent).</li>
@@ -81,8 +81,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Alignment with the 1+MG Trust Framework</td>
-            <td>Legal</td>
+            <td>[2.2.2]Alignment with the 1+MG Trust Framework</td>
+            <td>2.2.1</td>
             <td>
                 <ol>
                     <li>Gathering requirements for policies and agreements which align with the 1+MG Trust Framework to enable effective and secure cross-border access to sensitive human data.</li>
@@ -93,8 +93,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>EHDS Alignment</td>
-            <td>Org</td>
+            <td>[2.2.3] EHDS Alignment</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Outputs of the EHDS are being analysed for benefit to the Node.</li>
@@ -105,8 +105,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>EOSC Alignment</td>
-            <td>Org</td>
+            <td>[2.2.4]EOSC Alignment</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Outputs of the EOSC are being analysed for benefit to the Node.</li>
@@ -117,8 +117,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>National Genomic Programme</td>
-            <td>Legal</td>
+            <td>[2.2.5] National Genomic Programme</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered to form a mutual connection between the Node's activities and the current National or Regional Genomic Programme.</li>
@@ -129,9 +129,9 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td rowspan="2">Sustainability</td>
-            <td>Planning and secured funding</td>
-            <td>Org</td>
+            <td rowspan="2">[2.3] Sustainability</td>
+            <td>[2.3.1]Planning and secured funding</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered to create a long term funding plan to support the operation of the Infrastructure.</li>
@@ -142,8 +142,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Business Plan</td>
-            <td>Org</td>
+            <td>[2.3.2]Business Plan</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered to create a business plan to support the infrastructure.</li>
@@ -154,9 +154,9 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td rowspan="3">Human Capacity Building</td>
-            <td>ELSI Capacity</td>
-            <td>Org</td>
+            <td rowspan="3">[2.4] Human Capacity Building</td>
+            <td>[2.4.1] ELSI Capacity</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered for Node capacity supporting ELSI concerns of human genomic data sharing, currently covered ad hoc.</li>
@@ -167,8 +167,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Technical Capacity</td>
-            <td>Org</td>
+            <td>[2.4.2] Technical Capacity</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered for Node capacity supporting technical requirements for human genomic data sharing, currently covered ad hoc.</li>
@@ -179,8 +179,8 @@ Ultimately, this model should support technical leads in human data sharing proj
             </td>
         </tr>
         <tr>
-            <td>Training</td>
-            <td>Org</td>
+            <td>[2.4.3] Training</td>
+            <td></td>
             <td>
                 <ol>
                     <li>Requirements being gathered to create a training program to support onboarding and advancement within the infrastructure.</li>

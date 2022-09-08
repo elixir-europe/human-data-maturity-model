@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
----
 
 The aim of this Maturity Model is to create a guide which can be used by technical decision makers to support the organisational data-sharing maturation strategy which they are tasked to execute. It should help bridge the gap between the goals of the high level decision makers and the actions of the technical implementers.
 
@@ -198,7 +197,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     <h2>Core Functionalities</h2>
     <h3>
         <button class="accordion" id="accordion-header-3" aria-expanded="false" aria-controls="accordion-panel-3" data-accordion-header>
-            Data Discoverability
+            [3] Data Discoverability
         </button>
     </h3>
     <section class="panel" id="accordion-panel-3" aria-labelledby="accordion-header-3" hidden>
@@ -210,9 +209,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Discoverability Technical Concerns</td>
-                <td>Data Discovery Functionalities</td>
-                <td>Tech</td>
+                <td>[3.1] Data Discoverability Technical Concerns</td>
+                <td>[3.1.1] Data Discovery Functionalities</td>
+                <td>2.2.2</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for the implementation of data discovery functionalities aligned with the 1+MG proof of concept.</li>
@@ -223,9 +222,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Discoverability Semantics</td>
-                <td>Metadata structure</td>
-                <td>Semantic</td>
+                <td>[3.2] Data Discoverability Semantics</td>
+                <td>[3.2.1] Metadata structure</td>
+                <td>4.2.1</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for metadata structure standardisation needs.</li>

@@ -428,7 +428,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     </section>
     <h3>
         <button class="accordion" id="accordion-header-7" aria-expanded="false" aria-controls="accordion-panel-7" data-accordion-header>
-            Processing
+            [7] Processing
         </button>
     </h3>
     <section class="panel" id="accordion-panel-7" aria-labelledby="accordion-header-7" hidden>
@@ -440,9 +440,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Processing Technical Concerns</td>
-                <td>Data Processing Technical Infrastructure</td>
-                <td>Tech</td>
+                <td>[7.1] Data Processing Technical Concerns</td>
+                <td>[7.1.1] Data Processing Technical Infrastructure</td>
+                <td></td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for the technical infrastructure to support data processing.</li>
@@ -453,9 +453,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Processing Organisational Concerns</td>
-                <td>Data Processing Capacity</td>
-                <td>Org</td>
+                <td>[ 7.2] Data Processing Organisational Concerns</td>
+                <td>[7.2.1] Data Processing Capacity</td>
+                <td></td>
                 <td>
                     <ol>
                         <li>Requirements being gathered to support the data processing needs of the national human data network.</li>
@@ -466,9 +466,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Processing Legal Concerns</td>
-                <td>Data Processing Service Terms</td>
-                <td>Legal</td>
+                <td>[7.3] Data Processing Legal Concerns</td>
+                <td>[7.3.1]Data Processing Service Terms</td>
+                <td>2.3.2</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for data processing policies.</li>

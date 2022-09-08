@@ -305,7 +305,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     </section>
     <h3>
         <button class="accordion" id="accordion-header-5" aria-expanded="false" aria-controls="accordion-panel-5" data-accordion-header>
-            Storage and Interfaces
+            [5] Storage and Interfaces
         </button>
     </h3>
     <section class="panel" id="accordion-panel-5" aria-labelledby="accordion-header-5" hidden>
@@ -317,9 +317,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Secure Storage and Interfaces Technical Concerns</td>
-                <td>Storage and Interface APIs</td>
-                <td>Tech</td>
+                <td>[5.1] Secure Storage and Interfaces Technical Concerns</td>
+                <td>[5.1.1] Storage and Interface APIs</td>
+                <td></td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for secure data storage and APIs supporting submission, metadata, and distribution.</li>
@@ -330,9 +330,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Storage and Interfaces Organisational Concerns</td>
-                <td>Physical Infrastructure for Data Storage</td>
-                <td>Org</td>
+                <td>[5.2] Storage and Interfaces Organisational Concerns</td>
+                <td>[5.2.1] Physical Infrastructure for Data Storage</td>
+                <td>2.3.1</td>
                 <td>
                     <ol>
                         <li>Physical hardware needs are drafted to support the storage needs of the national human data network.</li>
@@ -343,9 +343,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Storage and Interfaces Legal Concerns</td>
-                <td>Data Storage Policies</td>
-                <td>Legal</td>
+                <td>[5.3] Storage and Interfaces Legal Concerns</td>
+                <td>[5.3.1]Data Storage Policies</td>
+                <td>1.1.1</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for data storage and storage security policies.</li>
@@ -359,7 +359,7 @@ Ultimately, this model should support technical leads in human data sharing proj
     </section>
     <h3>
         <button class="accordion" id="accordion-header-6" aria-expanded="false" aria-controls="accordion-panel-6" data-accordion-header>
-            Data Management Access
+            [6] Data Management Access
         </button>
     </h3>
     <section class="panel" id="accordion-panel-6" aria-labelledby="accordion-header-6" hidden>
@@ -371,9 +371,9 @@ Ultimately, this model should support technical leads in human data sharing proj
     <th>Levels</th>
   </tr>
   <tr>
-    <td rowspan="2">Data Management & Access Technical Concerns</td>
-    <td>Access Control Mechanisms</td>
-    <td>Tech</td>
+    <td rowspan="2">[6.1] Data Management & Access Technical Concerns</td>
+    <td>[6.1.1] Access Control Mechanisms</td>
+    <td></td>
     <td>
       <ol>
         <li>Requirements being gathered for the system to support controlled access management using Life Science AAI or compatible system.</li>
@@ -384,8 +384,8 @@ Ultimately, this model should support technical leads in human data sharing proj
     </td>
 </tr>
 <tr>
-    <td>Permissions Management</td>
-    <td>Semantic</td>
+    <td>[6.1.2]Permissions Management</td>
+    <td></td>
     <td>
       <ol>
         <li>Requirements being gathered for the system to support permissions management using Life Science AAI or compatible system.</li>
@@ -396,9 +396,10 @@ Ultimately, this model should support technical leads in human data sharing proj
     </td>
   </tr>
   <tr>
-    <td>Data Management & Access Semantics</td>
-    <td>Data Use Semantics</td>
-    <td>Semantic</td>
+    <td>[6.2] Data Management & Access Semantics</td>
+    <td>[6.2.1]Data Use Semantics</td>
+    <td>4.2.1<br>
+        3.2.1</td>
     <td>
       <ol>
         <li>No or ad hoc labeling of datasets for allowed usage. Requirements being gathered to implement a consistent ontology for data usage and access policies.</li>
@@ -409,9 +410,11 @@ Ultimately, this model should support technical leads in human data sharing proj
     </td>
   </tr>
   <tr>
-    <td>Data Management & Access Legal Concerns</td>
-    <td>Data & Metadata sharing & access policies</td>
-    <td>Legal</td>
+    <td>[6.3] Data Management & Access Legal Concerns</td>
+    <td>[6.3.1] Data & Metadata sharing & access policies</td>
+    <td>1.1.1<br>
+      4.2.1<br>
+      6.2.1</td>
     <td>
       <ol>
         <li>Requirements being gathered for data & metadata sharing and access policy needs to support data access & discoverability.</li>

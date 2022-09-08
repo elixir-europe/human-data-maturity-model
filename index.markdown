@@ -234,24 +234,11 @@ Ultimately, this model should support technical leads in human data sharing proj
                     </ol>
                 </td>
             </tr>
-            <tr>
-                <td>Data Discoverability Legal Concerns</td>
-                <td>Metadata Sharing and Access Policies</td>
-                <td>Legal</td>
-                <td>
-                    <ol>
-                        <li>Requirements being gathered for metadata sharing and access policy needs.</li>
-                        <li>Metadata access policies are drafted.</li>
-                        <li>Metadata access policies created to support data findability within the federated European human data ecosystem.</li>
-                        <li>Metadata access policies to support data findability are established, enforced, and open to opportunities and advancement.</li>
-                    </ol>
-                </td>
-            </tr>
         </table>
     </section>
     <h3>
         <button class="accordion" id="accordion-header-4" aria-expanded="false" aria-controls="accordion-panel-4" data-accordion-header>
-            Data Reception
+           [4] Data Reception
         </button>
     </h3>
     <section class="panel" id="accordion-panel-4" aria-labelledby="accordion-header-4" hidden>
@@ -263,9 +250,10 @@ Ultimately, this model should support technical leads in human data sharing proj
                 <th>Levels</th>
             </tr>
             <tr>
-                <td>Data Reception Technical Concerns</td>
-                <td>Data Reception APIs</td>
-                <td>Tech</td>
+                <td>[4.1] Data Reception Technical Concerns</td>
+                <td>[4.1.1] Data Reception APIs</td>
+                <td>4.2.1 <br>
+                4.3.1</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered for data reception standardisation mechanisms to ensure consistent data reception.</li>
@@ -276,9 +264,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Reception Semantics</td>
-                <td>Data Reception Standards</td>
-                <td>Semantic</td>
+                <td>[4.2] Data Reception Semantics</td>
+                <td>[4.2.1] Data Reception Standards</td>
+                <td>3.2.1</td>
                 <td>
                     <ol>
                         <li>Data and metadata reception requirements being gathered, such as minimal metadata requirements, data standards, file formats, or relevant ontologies.</li>
@@ -289,9 +277,9 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td rowspan="2">Data Reception Organisational Concerns</td>
-                <td>Data Reception Quality Control Requirements</td>
-                <td>Semantic</td>
+                <td rowspan="2">[4.3] Data Reception Organisational Concerns</td>
+                <td>[4.3.1] Data Reception Quality Control Requirements</td>
+                <td>4.3.2</td>
                 <td>
                     <ol>
                         <li>Information being gathered for data quality control requirements.</li>
@@ -302,8 +290,8 @@ Ultimately, this model should support technical leads in human data sharing proj
                 </td>
             </tr>
             <tr>
-                <td>Data Quality Control Procedures</td>
-                <td>Org</td>
+                <td>[4.3.2] Data Quality Control Procedures</td>
+                <td>4.3.1</td>
                 <td>
                     <ol>
                         <li>Requirements being gathered to draft data quality control procedures to ensure consistent data reception.</li>

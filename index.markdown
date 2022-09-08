@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-
+---
 The aim of this Maturity Model is to create a guide which can be used by technical decision makers to support the organisational data-sharing maturation strategy which they are tasked to execute. It should help bridge the gap between the goals of the high level decision makers and the actions of the technical implementers.
 
 Ultimately, this model should support technical leads in human data sharing projects and organisations, provide concrete steps in supporting operational goals through the use of standards, align with existing related projects, and support the ELIXIR HGTD vision from the ground up.
